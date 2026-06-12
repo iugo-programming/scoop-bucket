@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/iugo-programming/iugo-ai/releases/download/v1.0.0/iugo-ai_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/iugo-programming/iugo-ai/releases/download/v1.0.1/iugo-ai_1.0.1_windows_amd64.zip",
             "bin": [
                 "iugo-ai.exe"
             ],
-            "hash": "8a8a4fb753e642189ec239402665737c775fb8eab67c789dffe7b96ff553313b"
+            "hash": "1b1fbaf503a349d1056ce8d57cf45a0470e659d05bb1c7c4862a49c9d0d68213"
         },
         "arm64": {
-            "url": "https://github.com/iugo-programming/iugo-ai/releases/download/v1.0.0/iugo-ai_1.0.0_windows_arm64.zip",
+            "url": "https://github.com/iugo-programming/iugo-ai/releases/download/v1.0.1/iugo-ai_1.0.1_windows_arm64.zip",
             "bin": [
                 "iugo-ai.exe"
             ],
-            "hash": "b30501745f2241ff58b4b2cd3b277de2e35ac6a1dc22c6935fc050c8368f2feb"
+            "hash": "04493211fd894bbfc00276efbe3c5d35a50eaa020462ac9bc5221b11558beddc"
         }
     },
     "homepage": "https://github.com/iugo-programming/iugo-ai",
